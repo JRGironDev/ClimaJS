@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estadoMañana": "Nublado",
+    "temperaturaMañana": "5°C",
+    "estadoTarde": "Nublado",
+    "temperaturaTarde": "10°C",
+    "estadoNoche": "Despejado",
+    "temperaturaNoche": "15°C"
+  },
+  {
+    "id": 2,
+    "estadoMañana": "Despejado",
+    "temperaturaMañana": "10°C",
+    "estadoTarde": "Despejado",
+    "temperaturaTarde": "15°C",
+    "estadoNoche": "Despejado",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 3,
+    "estadoMañana": "Lluvioso",
+    "temperaturaMañana": "5°C",
+    "estadoTarde": "Lluvioso",
+    "temperaturaTarde": "5°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "10°C"
+  },
+  {
+    "id": 4,
+    "estadoMañana": "Nublado",
+    "temperaturaMañana": "10°C",
+    "estadoTarde": "Nublado",
+    "temperaturaTarde": "15°C",
+    "estadoNoche": "Despejado",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 5,
+    "estadoMañana": "Despejado",
+    "temperaturaMañana": "15°C",
+    "estadoTarde": "Nublado",
+    "temperaturaTarde": "10°C",
+    "estadoNoche": "Despejado",
+    "temperaturaNoche": "15°C"
+  },
+  {
+    "id": 6,
+    "estadoMañana": "Lluvioso",
+    "temperaturaMañana": "10°C",
+    "estadoTarde": "Nublado",
+    "temperaturaTarde": "15°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 7,
+    "estadoMañana": "Nublado",
+    "temperaturaMañana": "15°C",
+    "estadoTarde": "Despejado",
+    "temperaturaTarde": "20°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "15°C"
+  },
+  {
+    "id": 8,
+    "estadoMañana": "Despejado",
+    "temperaturaMañana": "20°C",
+    "estadoTarde": "Despejado",
+    "temperaturaTarde": "25°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 9,
+    "estadoMañana": "Lluvioso",
+    "temperaturaMañana": "15°C",
+    "estadoTarde": "Lluvioso",
+    "temperaturaTarde": "10°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "5°C"
+  },
+  {
+    "id": 10,
+    "estadoMañana": "Nublado",
+    "temperaturaMañana": "20°C",
+    "estadoTarde": "Nublado",
+    "temperaturaTarde": "20°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "25°C"
+  },
+  {
+    "id": 11,
+    "estadoMañana": "Despejado",
+    "temperaturaMañana": "25°C",
+    "estadoTarde": "Despejado",
+    "temperaturaTarde": "30°C",
+    "estadoNoche": "Despejado",
+    "temperaturaNoche": "30°C"
+  },
+  {
+    "id": 12,
+    "estadoMañana": "Lluvioso",
+    "temperaturaMañana": "20°C",
+    "estadoTarde": "Nublado",
+    "temperaturaTarde": "25°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 13,
+    "estadoMañana": "Nublado",
+    "temperaturaMañana": "25°C",
+    "estadoTarde": "Despejado",
+    "temperaturaTarde": "30°C",
+    "estadoNoche": "Despejado",
+    "temperaturaNoche": "25°C"
+  },
+  {
+    "id": 14,
+    "estadoMañana": "Despejado",
+    "temperaturaMañana": "30°C",
+    "estadoTarde": "Nublado",
+    "temperaturaTarde": "25°C",
+    "estadoNoche": "Nublado",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 15,
+    "estadoMañana": "Lluvioso",
+    "temperaturaMañana": "25°C",
+    "estadoTarde": "Lluvioso",
+    "temperaturaTarde": "20°C",
+    "estadoNoche": "Despejado",
+    "temperaturaNoche": "15°C"
+  }
+]
